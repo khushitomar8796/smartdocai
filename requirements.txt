@@ -5,3 +5,5 @@ PyPDF2
 scikit-learn
 numpy
 tiktoken
+PyMuPDF
+
