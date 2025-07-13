@@ -8,5 +8,6 @@ tiktoken
 PyMuPDF
 transformers
 torch
+sentence-transformers
 
 
